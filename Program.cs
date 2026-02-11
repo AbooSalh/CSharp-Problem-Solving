@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        RomanToInt problem = new();
+        LongestCommonPrefix problem = new();
         Console.WriteLine(problem.Result);
     }
 }
