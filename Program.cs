@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        LongestCommonPrefix problem = new();
+        ConcatenationofArray problem = new();
         Console.WriteLine(problem.Result);
     }
 }
