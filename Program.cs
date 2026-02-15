@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        MaxConsecutiveOnes problem = new();
+        SetMismatch problem = new();
         Console.WriteLine(problem.Result);
     }
 }
