@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        SetMismatch problem = new();
+        How_Many_Numbers_Are_Smaller_Than_the_Current_Number problem = new();
         Console.WriteLine(problem.Result);
     }
 }
