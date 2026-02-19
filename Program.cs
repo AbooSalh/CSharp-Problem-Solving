@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        How_Many_Numbers_Are_Smaller_Than_the_Current_Number problem = new();
+        Find_All_Numbers_Disappeared_in_an_Array problem = new();
         Console.WriteLine(problem.Result);
     }
 }
