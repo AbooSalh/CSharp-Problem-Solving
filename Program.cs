@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Find_All_Numbers_Disappeared_in_an_Array problem = new();
+        Build_an_Array_With_Stack_Operations problem = new();
         Console.WriteLine(problem.Result);
     }
 }
