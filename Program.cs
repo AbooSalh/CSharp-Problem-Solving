@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Evaluate_Reverse_Polish_Notation problem = new();
+        Exclusive_Time_of_Functions problem = new();
         Console.WriteLine(problem.Result);
     }
 }
