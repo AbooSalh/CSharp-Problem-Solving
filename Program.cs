@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Build_an_Array_With_Stack_Operations problem = new();
+        Evaluate_Reverse_Polish_Notation problem = new();
         Console.WriteLine(problem.Result);
     }
 }
