@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Exclusive_Time_of_Functions problem = new();
+        Final_Prices_With_a_Special_Discount_in_a_Shop problem = new();
         Console.WriteLine(problem.Result);
     }
 }
