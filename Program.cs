@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Final_Prices_With_a_Special_Discount_in_a_Shop problem = new();
+        Largest_Rectangle_in_Histogram problem = new();
         Console.WriteLine(problem.Result);
     }
 }
