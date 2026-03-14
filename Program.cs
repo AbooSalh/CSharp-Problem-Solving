@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Add_Two_Numbers problem = new();
+        Majority_Element problem = new();
         Console.WriteLine(problem.Result);
 
     }
