@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Majority_Element problem = new();
+        Kth_Largest_Element_in_an_Array problem = new();
         Console.WriteLine(problem.Result);
 
     }
