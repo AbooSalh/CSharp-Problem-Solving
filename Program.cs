@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Kth_Largest_Element_in_an_Array problem = new();
+        Search_in_Rotated_Sorted_Array problem = new();
         Console.WriteLine(problem.Result);
 
     }
