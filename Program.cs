@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Search_in_Rotated_Sorted_Array problem = new();
+        Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal problem = new();
         Console.WriteLine(problem.Result);
 
     }
