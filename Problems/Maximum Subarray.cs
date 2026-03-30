@@ -8,7 +8,7 @@ namespace CSPS.Problems
 {
     internal class Maximum_Subarray : IProblem
     {
-        public string Result => MaxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]).ToString();
+        public string Result => MaxSubArray([-1,3,4,-5,9,-2]).ToString();
         public int MaxSubArray(int[] nums)
         {
             return MaxSubArrayRec(nums, 0, nums.Length - 1);
