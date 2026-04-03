@@ -8,7 +8,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        _1768 problem = new();
+        _1431 problem = new();
         Console.WriteLine(problem.Result);
         //int[] nums = new int[] { 3, 2, 1, 5, 6, 4 };
         //int k = 2;

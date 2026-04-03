@@ -26,7 +26,7 @@ namespace CSPS.Algorithms.DivideAndConquer
 
         int[] FindMinMaxRec(int left, int right, int[] arr)
         {
-            // Base case: one element -> it is both min and max.
+            // Base case: one elemen    t -> it is both min and max.
             if (left == right)
             {
                 return new int[] { arr[left], arr[left] };
